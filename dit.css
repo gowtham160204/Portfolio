@@ -1,0 +1,73 @@
+.lev1{
+    background-color: rgb(88, 88, 244);
+    color: aliceblue;
+    padding-left: px;
+    padding-top: 10vh;
+    margin-top: 100px;
+    height: 720px;
+
+
+    
+}
+.imgcap{
+    padding-left: 120px;
+    padding-top: 10px;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.img{
+    height: 250px;
+    width: 350px;
+    margin-left: 80px;
+    border-radius: 20px;
+    box-shadow: 100px black;
+}
+.sign{
+    color: rgb(72, 71, 71);
+    margin: 20px;
+}
+.pra1{
+    padding-left: 25px;
+    font-size: 20px;
+}
+.pra2{
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.imgtop{
+    padding-left: 150px;
+    padding-top: 10px;
+}
+.wel{
+    padding-left: 110px;
+    padding-top: 10px;
+    font-size: 50px;
+}
+#user{
+    position: relative;
+    border-radius: 30px solid black;
+    margin-left: 100px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+}
+.mar{
+    margin-left: 70px;
+    margin-top: 100px;
+    margin-right: 100px;
+    border: 2px solid rgb(121, 120, 120);
+    border-radius: 30px;
+}
+label{
+    padding-left: 30px;
+    margin-top: 10px;
+}
+.password
+    {
+        border-radius: 30px solid black;
+        margin-left: 100px;
+        padding-bottom: px;
+    }
+.check{
+    margin-left: 100px;
+}
